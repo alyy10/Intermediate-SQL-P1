@@ -73,5 +73,4 @@ This project aims to demonstrate an efficient way to manage and analyze company 
    
 ### 3. **Procedures and Triggers**
    - **Triggers**: Implemented to automatically log job history whenever an employee's job or department is updated.
-   - **Security Procedures**: Ensures that data modifications are restricted to business hours (08:00 AM - 06:00 PM).
-   git clone https://github.com/yourusername/repository-name.git
+   
