@@ -1,4 +1,4 @@
-# Database and Data Analysis System
+# Intermediate SQL Project: Employee and Department Management Part 01
 
 This repository contains the implementation of a comprehensive **Database Management System** using SQL, focusing on **Data Definition Language (DDL)** operations and **Data Analysis** techniques. The system allows for the creation, management, and analysis of employee, department, job, and location data for a fictional company.
 
